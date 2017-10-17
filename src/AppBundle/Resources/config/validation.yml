@@ -1,0 +1,8 @@
+AppBundle\Entity\autor:
+    properties:
+        name:
+            - NotBlank: ~
+        email:
+            - NotBlank: ~
+            - Email: ~
+        

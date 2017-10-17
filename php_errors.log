@@ -1,0 +1,435 @@
+[16-Oct-2017 16:59:17 UTC] PHP Fatal error:  Class 'AppBundle\Controller\autor' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 12
+[16-Oct-2017 16:59:17 UTC] PHP Stack trace:
+[16-Oct-2017 16:59:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 16:59:17 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 16:59:17 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 16:59:17 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 16:59:17 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 16:59:17 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:00:05 UTC] PHP Fatal error:  Class 'AppBundle\Controller\autor' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 12
+[16-Oct-2017 17:00:05 UTC] PHP Stack trace:
+[16-Oct-2017 17:00:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:00:05 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:00:05 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:00:05 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:00:05 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:00:05 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:01:42 UTC] PHP Fatal error:  Class 'AppBundle\Controller\autor' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 12
+[16-Oct-2017 17:01:42 UTC] PHP Stack trace:
+[16-Oct-2017 17:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:01:42 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:01:42 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:01:42 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:01:42 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:01:42 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:02:41 UTC] PHP Fatal error:  Class 'AppBundle\Controller\autor' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 12
+[16-Oct-2017 17:02:41 UTC] PHP Stack trace:
+[16-Oct-2017 17:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:02:41 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:02:41 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:02:41 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:02:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:02:41 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:02:57 UTC] PHP Fatal error:  Class 'AppBundle\Controller\autor' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 12
+[16-Oct-2017 17:02:57 UTC] PHP Stack trace:
+[16-Oct-2017 17:02:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:02:57 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:02:57 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:02:57 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:02:57 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:02:57 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:31:18 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\setLastLogDate() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[16-Oct-2017 17:31:18 UTC] PHP Stack trace:
+[16-Oct-2017 17:31:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:31:18 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:31:18 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:31:18 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:31:18 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:31:18 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:41:30 UTC] PHP Fatal error:  Class 'AppBundle\Controller\DateTime' not found in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[16-Oct-2017 17:41:30 UTC] PHP Stack trace:
+[16-Oct-2017 17:41:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:41:30 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:41:30 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:41:30 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:41:30 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:41:30 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:44:38 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\setLastLogDate() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[16-Oct-2017 17:44:38 UTC] PHP Stack trace:
+[16-Oct-2017 17:44:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:44:38 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:44:38 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:44:38 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:44:38 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:44:38 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:46:41 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\setLastLogDate() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[16-Oct-2017 17:46:41 UTC] PHP Stack trace:
+[16-Oct-2017 17:46:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:46:41 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:46:41 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:46:41 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:46:41 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:46:41 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:53:49 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\setLastLogDate() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 17:53:49 UTC] PHP Stack trace:
+[16-Oct-2017 17:53:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:53:49 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:53:49 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:53:49 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:53:49 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:53:49 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:53:52 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\setLastLogDate() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 17:53:52 UTC] PHP Stack trace:
+[16-Oct-2017 17:53:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:53:52 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:53:52 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:53:52 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:53:52 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:53:52 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:55:45 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 17:55:45 UTC] PHP Stack trace:
+[16-Oct-2017 17:55:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:55:45 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:55:45 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:55:45 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:55:45 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:55:45 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:55:45 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 17:55:45 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 17:55:45 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 17:55:45 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 17:55:45 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 17:55:45 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 17:57:55 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 17:57:55 UTC] PHP Stack trace:
+[16-Oct-2017 17:57:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 17:57:55 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 17:57:55 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 17:57:55 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 17:57:55 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:57:55 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 17:57:55 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 17:57:55 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 17:57:55 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 17:57:55 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 17:57:55 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 17:57:55 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 18:07:20 UTC] PHP Fatal error:  Call to undefined method AppBundle\Entity\autor::persist() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 31
+[16-Oct-2017 18:07:20 UTC] PHP Stack trace:
+[16-Oct-2017 18:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 18:07:20 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 18:07:20 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 18:07:20 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 18:07:20 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:07:20 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:10:01 UTC] PHP Fatal error:  Call to undefined method AppBundle\Entity\autor::persist() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 18:10:01 UTC] PHP Stack trace:
+[16-Oct-2017 18:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 18:10:01 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 18:10:01 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 18:10:01 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 18:10:01 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:10:01 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:14:02 UTC] PHP Fatal error:  Call to undefined method AppBundle\Entity\autor::persist() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 18:14:02 UTC] PHP Stack trace:
+[16-Oct-2017 18:14:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 18:14:02 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 18:14:02 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 18:14:02 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 18:14:02 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:14:02 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:17:16 UTC] PHP Fatal error:  Call to undefined method AppBundle\Entity\autor::persist() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 18:17:16 UTC] PHP Stack trace:
+[16-Oct-2017 18:17:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 18:17:16 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 18:17:16 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 18:17:16 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 18:17:16 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 18:17:16 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:14:49 UTC] PHP Fatal error:  Call to undefined method AppBundle\Entity\autor::persist() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 30
+[16-Oct-2017 19:14:49 UTC] PHP Stack trace:
+[16-Oct-2017 19:14:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:14:49 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:14:49 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:14:49 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:14:49 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:14:49 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:31:01 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:31:01 UTC] PHP Stack trace:
+[16-Oct-2017 19:31:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:31:01 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:31:01 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:31:01 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:31:01 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:31:01 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:31:01 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 19:31:01 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:31:01 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:31:01 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:31:01 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:31:01 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:33:11 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:33:11 UTC] PHP Stack trace:
+[16-Oct-2017 19:33:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:33:11 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:33:11 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:33:11 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:33:11 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:33:11 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:33:11 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 19:33:11 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:33:11 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:33:11 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:33:11 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:33:11 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:35:02 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:35:02 UTC] PHP Stack trace:
+[16-Oct-2017 19:35:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:35:02 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:35:02 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:35:02 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:35:02 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:35:02 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:35:02 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 19:35:02 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:35:02 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:35:02 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:35:02 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:35:02 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:38:49 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:38:49 UTC] PHP Stack trace:
+[16-Oct-2017 19:38:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:38:49 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:38:49 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:38:49 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:38:49 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:38:49 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:38:49 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:31
+[16-Oct-2017 19:38:49 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:38:49 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:38:49 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:38:49 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:38:49 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:39:53 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:39:53 UTC] PHP Stack trace:
+[16-Oct-2017 19:39:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:39:53 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:39:53 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:39:53 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:39:53 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:39:53 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:39:53 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:30
+[16-Oct-2017 19:39:53 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:39:53 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:39:53 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:39:53 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:39:53 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:41:47 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:41:47 UTC] PHP Stack trace:
+[16-Oct-2017 19:41:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:41:47 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:41:47 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:41:47 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:41:47 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:41:47 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:41:47 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 19:41:47 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:41:47 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:41:47 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:41:47 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:41:47 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:43:58 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 31
+[16-Oct-2017 19:43:58 UTC] PHP Stack trace:
+[16-Oct-2017 19:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:43:58 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:43:58 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:166
+[16-Oct-2017 19:43:58 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeContainer() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:117
+[16-Oct-2017 19:43:58 UTC] PHP   5. Symfony\Component\Config\ConfigCache->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:538
+[16-Oct-2017 19:43:58 UTC] PHP   6. Symfony\Component\Config\ResourceCheckerConfigCache->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:3019
+[16-Oct-2017 19:43:58 UTC] PHP   7. Symfony\Component\Config\Resource\SelfCheckingResourceChecker->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:2966
+[16-Oct-2017 19:43:58 UTC] PHP   8. Symfony\Component\Config\Resource\ReflectionClassResource->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/SelfCheckingResourceChecker.php:34
+[16-Oct-2017 19:43:58 UTC] PHP   9. Symfony\Component\Config\Resource\ReflectionClassResource->computeHash() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:45
+[16-Oct-2017 19:43:58 UTC] PHP  10. ReflectionClass->__construct() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[16-Oct-2017 19:43:58 UTC] PHP  11. spl_autoload_call() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[16-Oct-2017 19:43:58 UTC] PHP  12. Symfony\Component\Debug\DebugClassLoader->loadClass() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[16-Oct-2017 19:54:55 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:54:55 UTC] PHP Stack trace:
+[16-Oct-2017 19:54:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:54:55 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:54:55 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:54:55 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:54:55 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:54:55 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:54:55 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:36
+[16-Oct-2017 19:54:55 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:54:55 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:54:55 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:54:55 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:54:55 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 19:57:25 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 19:57:25 UTC] PHP Stack trace:
+[16-Oct-2017 19:57:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 19:57:25 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 19:57:25 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 19:57:25 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 19:57:25 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:57:25 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 19:57:25 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 19:57:25 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 19:57:25 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 19:57:25 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 19:57:25 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 19:57:25 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 20:03:37 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 20:03:37 UTC] PHP Stack trace:
+[16-Oct-2017 20:03:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 20:03:37 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 20:03:37 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 20:03:37 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 20:03:37 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 20:03:37 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 20:03:37 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 20:03:37 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 20:03:37 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 20:03:37 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 20:03:37 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 20:03:37 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[16-Oct-2017 20:06:14 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Types/DateTimeType.php on line 53
+[16-Oct-2017 20:06:14 UTC] PHP Stack trace:
+[16-Oct-2017 20:06:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[16-Oct-2017 20:06:14 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[16-Oct-2017 20:06:14 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[16-Oct-2017 20:06:14 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[16-Oct-2017 20:06:14 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 20:06:14 UTC] PHP   6. AppBundle\Controller\registrationController->registrationAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[16-Oct-2017 20:06:14 UTC] PHP   7. Doctrine\ORM\EntityManager->flush() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php:32
+[16-Oct-2017 20:06:14 UTC] PHP   8. Doctrine\ORM\UnitOfWork->commit() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/EntityManager.php:356
+[16-Oct-2017 20:06:14 UTC] PHP   9. Doctrine\ORM\UnitOfWork->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:378
+[16-Oct-2017 20:06:14 UTC] PHP  10. Doctrine\ORM\Persisters\Entity\BasicEntityPersister->executeInserts() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/UnitOfWork.php:1014
+[16-Oct-2017 20:06:14 UTC] PHP  11. Doctrine\DBAL\Statement->bindValue() /home/ubuntu/workspace/data_base/vendor/doctrine/orm/lib/Doctrine/ORM/Persisters/Entity/BasicEntityPersister.php:277
+[16-Oct-2017 20:06:14 UTC] PHP  12. Doctrine\DBAL\Types\DateTimeType->convertToDatabaseValue() /home/ubuntu/workspace/data_base/vendor/doctrine/dbal/lib/Doctrine/DBAL/Statement.php:114
+[17-Oct-2017 10:30:53 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[17-Oct-2017 10:30:53 UTC] PHP Stack trace:
+[17-Oct-2017 10:30:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 10:30:53 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 10:30:53 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:166
+[17-Oct-2017 10:30:53 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeContainer() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:117
+[17-Oct-2017 10:30:53 UTC] PHP   5. Symfony\Component\Config\ConfigCache->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:538
+[17-Oct-2017 10:30:53 UTC] PHP   6. Symfony\Component\Config\ResourceCheckerConfigCache->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:3019
+[17-Oct-2017 10:30:53 UTC] PHP   7. Symfony\Component\Config\Resource\SelfCheckingResourceChecker->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:2966
+[17-Oct-2017 10:30:53 UTC] PHP   8. Symfony\Component\Config\Resource\ReflectionClassResource->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/SelfCheckingResourceChecker.php:34
+[17-Oct-2017 10:30:53 UTC] PHP   9. Symfony\Component\Config\Resource\ReflectionClassResource->computeHash() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:45
+[17-Oct-2017 10:30:53 UTC] PHP  10. ReflectionClass->__construct() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 10:30:53 UTC] PHP  11. spl_autoload_call() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 10:30:53 UTC] PHP  12. Symfony\Component\Debug\DebugClassLoader->loadClass() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 10:30:55 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/registrationController.php on line 29
+[17-Oct-2017 10:30:55 UTC] PHP Stack trace:
+[17-Oct-2017 10:30:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 10:30:55 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 10:30:55 UTC] PHP   3. Symfony\Component\HttpKernel\Kernel->boot() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:166
+[17-Oct-2017 10:30:55 UTC] PHP   4. Symfony\Component\HttpKernel\Kernel->initializeContainer() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:117
+[17-Oct-2017 10:30:55 UTC] PHP   5. Symfony\Component\Config\ConfigCache->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:538
+[17-Oct-2017 10:30:55 UTC] PHP   6. Symfony\Component\Config\ResourceCheckerConfigCache->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:3019
+[17-Oct-2017 10:30:55 UTC] PHP   7. Symfony\Component\Config\Resource\SelfCheckingResourceChecker->isFresh() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:2966
+[17-Oct-2017 10:30:55 UTC] PHP   8. Symfony\Component\Config\Resource\ReflectionClassResource->isFresh() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/SelfCheckingResourceChecker.php:34
+[17-Oct-2017 10:30:55 UTC] PHP   9. Symfony\Component\Config\Resource\ReflectionClassResource->computeHash() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:45
+[17-Oct-2017 10:30:55 UTC] PHP  10. ReflectionClass->__construct() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 10:30:55 UTC] PHP  11. spl_autoload_call() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 10:30:55 UTC] PHP  12. Symfony\Component\Debug\DebugClassLoader->loadClass() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/Config/Resource/ReflectionClassResource.php:100
+[17-Oct-2017 15:35:54 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\getDoctrine() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php on line 13
+[17-Oct-2017 15:35:54 UTC] PHP Stack trace:
+[17-Oct-2017 15:35:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:35:54 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:35:54 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:35:54 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:35:54 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:35:54 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:42:26 UTC] PHP Fatal error:  Call to undefined function AppBundle\Controller\getDoctrine() in /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php on line 13
+[17-Oct-2017 15:42:26 UTC] PHP Stack trace:
+[17-Oct-2017 15:42:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:42:26 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:42:26 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:42:26 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:42:26 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:42:26 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:55:08 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 15:55:08 UTC] PHP Stack trace:
+[17-Oct-2017 15:55:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:55:08 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:55:08 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:55:08 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:55:08 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:55:08 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:55:08 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 15:56:46 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 15:56:46 UTC] PHP Stack trace:
+[17-Oct-2017 15:56:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:56:46 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:56:46 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:56:46 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:56:46 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:56:46 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:56:46 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 15:57:08 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 15:57:08 UTC] PHP Stack trace:
+[17-Oct-2017 15:57:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:57:08 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:57:08 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:57:08 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:57:08 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:08 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:08 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 15:57:33 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 15:57:33 UTC] PHP Stack trace:
+[17-Oct-2017 15:57:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:57:33 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:57:33 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:57:33 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:57:33 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:33 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:33 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 15:57:47 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 15:57:47 UTC] PHP Stack trace:
+[17-Oct-2017 15:57:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 15:57:47 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 15:57:47 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 15:57:47 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 15:57:47 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:47 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 15:57:47 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 16:01:09 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 16:01:09 UTC] PHP Stack trace:
+[17-Oct-2017 16:01:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 16:01:09 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 16:01:09 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 16:01:09 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 16:01:09 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:01:09 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:01:09 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 16:03:53 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 16:03:53 UTC] PHP Stack trace:
+[17-Oct-2017 16:03:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 16:03:53 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 16:03:53 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 16:03:53 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 16:03:53 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:03:53 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:03:53 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 16:04:46 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 16:04:46 UTC] PHP Stack trace:
+[17-Oct-2017 16:04:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 16:04:46 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 16:04:46 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 16:04:46 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 16:04:46 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:04:46 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:04:46 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19
+[17-Oct-2017 16:05:23 UTC] PHP Fatal error:  Call to undefined method Doctrine\ORM\Query::getQuery() in /home/ubuntu/workspace/data_base/src/AppBundle/Repository/autorRepository.php on line 19
+[17-Oct-2017 16:05:23 UTC] PHP Stack trace:
+[17-Oct-2017 16:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/data_base/web/app.php:0
+[17-Oct-2017 16:05:23 UTC] PHP   2. Symfony\Component\HttpKernel\Kernel->handle() /home/ubuntu/workspace/data_base/web/app.php:30
+[17-Oct-2017 16:05:23 UTC] PHP   3. Symfony\Component\HttpKernel\HttpKernel->handle() /home/ubuntu/workspace/data_base/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php:169
+[17-Oct-2017 16:05:23 UTC] PHP   4. Symfony\Component\HttpKernel\HttpKernel->handleRaw() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4452
+[17-Oct-2017 16:05:23 UTC] PHP   5. call_user_func_array:{/home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497}() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:05:23 UTC] PHP   6. AppBundle\Controller\blogListController->blogListAction() /home/ubuntu/workspace/data_base/var/cache/dev/classes.php:4497
+[17-Oct-2017 16:05:23 UTC] PHP   7. AppBundle\Repository\autorRepository->findAllOrderedByName() /home/ubuntu/workspace/data_base/src/AppBundle/Controller/blogListController.php:19

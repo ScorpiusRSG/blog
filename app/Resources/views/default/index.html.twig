@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello!{% endblock %}
+
+{% block body %}
+    <input type='button' value='To registration page' onClick='location.href="{{ path("registration") }}"'>
+    <br>
+    <input type='button' value='To autor list' onClick='location.href="{{ path("blog_list") }}"'>
+{% endblock %}

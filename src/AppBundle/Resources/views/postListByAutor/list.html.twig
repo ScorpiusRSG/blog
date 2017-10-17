@@ -1,0 +1,11 @@
+{% extends "AppBundle::layout.html.twig" %}
+
+{% block body %}
+    {% for post in posts %}
+        <div>
+            <h1>
+                {{post.name}}
+            </h1>
+        </div>
+    {% endfor %}
+{% endblock %}

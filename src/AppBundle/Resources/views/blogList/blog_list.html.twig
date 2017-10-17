@@ -1,0 +1,12 @@
+{% extends "AppBundle::layout.html.twig" %}
+
+{% block body %}
+    {% for autor in autors %}
+        <div>
+            <h1>
+                {{autor.name}}
+            </h1>
+            <input type='button' value='View posts' onClick='location.href="{{ path("postListByAutor", { 'id' : autor.id } ) }}"'>
+        </div>
+    {% endfor %}
+{% endblock %}

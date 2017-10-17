@@ -1,0 +1,12 @@
+
+registration:
+    path:     /registration
+    defaults: { _controller: AppBundle:registration:registration }
+
+blog_list:
+    path:     /blogList
+    defaults: { _controller: AppBundle:blogList:blogList }
+
+postListByAutor:
+    path:     /postListByAutor/{id}
+    defaults: { _controller: AppBundle:postListByAutor:list }
